@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1110" moduleid="4980" modulename="label" contextid="14770">
+  <label id="1110">
+    <name>Comprehension Check</name>
+    <intro>&lt;h4 style="text-align: left;"&gt;&lt;span style="font-size: small;"&gt;Comprehension Check&lt;/span&gt;&lt;/h4&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1439246435</timemodified>
+  </label>
+</activity>

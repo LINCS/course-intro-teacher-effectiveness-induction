@@ -1,0 +1,1043 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_categories>
+  <question_category id="153">
+    <name>Default for Unit 1 Quiz</name>
+    <contextid>14767</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>4977</contextinstanceid>
+    <info>The default category for questions shared in context 'Unit 1 Quiz'.</info>
+    <infoformat>0</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+150616194948+OUGygT</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="154">
+    <name>Default for Intro_TeacherEffectiveness_Induction</name>
+    <contextid>14755</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>131</contextinstanceid>
+    <info>The default category for questions shared in context 'Intro_TeacherEffectiveness_Induction'.</info>
+    <infoformat>0</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+150616194949+GjqGrb</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+      <question id="963">
+        <parent>0</parent>
+        <name>Question 1</name>
+        <questiontext>&lt;p&gt;Several researchers have linked improved student learning directly to teacher effectiveness.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150616195113+St4EMn</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150616195115+3dN1Bd</version>
+        <hidden>0</hidden>
+        <timecreated>1434484273</timecreated>
+        <timemodified>1434484273</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="2877">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2878">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="108">
+            <trueanswer>2877</trueanswer>
+            <falseanswer>2878</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="964">
+        <parent>0</parent>
+        <name>Question 2</name>
+        <questiontext>&lt;p&gt;In the research on teacher effectiveness, &lt;span class="nolink"&gt;teacher competency &lt;/span&gt;is often mentioned. The research often focuses on categorizing the knowledge, skills, and abilities that teachers must possess to have an impact on student learning. &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150616195150+530YOM</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150810225131+zSm6tx</version>
+        <hidden>0</hidden>
+        <timecreated>1434484310</timecreated>
+        <timemodified>1439247090</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="2879">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2880">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="109">
+            <trueanswer>2879</trueanswer>
+            <falseanswer>2880</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="965">
+        <parent>0</parent>
+        <name>Question 3</name>
+        <questiontext>&lt;p&gt;What research has indicated that teacher &lt;span class="nolink"&gt;induction&lt;/span&gt; programs can significantly promote teacher retention and reduce teacher attrition?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150616195356+lkNCcG</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150617151916+UXSnBi</version>
+        <hidden>0</hidden>
+        <timecreated>1434484436</timecreated>
+        <timemodified>1434554355</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="2881">
+              <answertext>&lt;p&gt;&lt;span class="nolink"&gt;Adult education&lt;/span&gt; research&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2882">
+              <answertext>&lt;p&gt;K–12 education research, focusing on middle school instructors&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2883">
+              <answertext>&lt;p&gt;K–12 education research, which we can extrapolate and apply to &lt;span class="nolink"&gt;adult education&lt;/span&gt; contexts&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="480">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="966">
+        <parent>0</parent>
+        <name>Question 4</name>
+        <questiontext>&lt;p&gt;In &lt;span class="nolink"&gt;adult education&lt;/span&gt;, beginning teachers are often assigned to work in challenging conditions, such as programs that predominantly serve economically disadvantaged students, many of whom may have had limited formal education. According to research, how can beginning teachers who face such challenges improve their skills and better serve these students?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150616195600+V60q4P</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150617152214+5KpqUo</version>
+        <hidden>0</hidden>
+        <timecreated>1434484560</timecreated>
+        <timemodified>1434554533</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="2884">
+              <answertext>&lt;p&gt;By attending graduate classes in education in addition to teaching&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2885">
+              <answertext>&lt;p&gt;By partnering with a more experienced instructor serving as their &lt;span class="nolink"&gt;mentor&lt;/span&gt; in a teacher &lt;span class="nolink"&gt;induction program&lt;/span&gt; &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2886">
+              <answertext>&lt;p&gt;By keeping a teaching journal and viewing videos of their own instruction&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2887">
+              <answertext>&lt;p&gt;All of the above&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="481">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="967">
+        <parent>0</parent>
+        <name>Question 1</name>
+        <questiontext>&lt;p&gt;Which of the following responses is &lt;em&gt;not&lt;/em&gt; one of the intended purposes of the &lt;em&gt;&lt;span class="nolink"&gt;Adult Education&lt;/span&gt;&lt;/em&gt; &lt;span class="nolink"&gt;Teacher Competencies&lt;/span&gt; described in Unit 2?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150617171320+LWQau2</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150817163118+69AiCN</version>
+        <hidden>0</hidden>
+        <timecreated>1434561200</timecreated>
+        <timemodified>1439829076</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="2888">
+              <answertext>&lt;p&gt;Identify what an adult educator needs to know and be able to do&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2889">
+              <answertext>&lt;p&gt;Evaluate a teacher’s performance to increase his/her salary&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2890">
+              <answertext>&lt;p&gt;Provide a foundation for teacher &lt;span class="nolink"&gt;induction&lt;/span&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2891">
+              <answertext>&lt;p&gt;Improve student achievement&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="482">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="968">
+        <parent>0</parent>
+        <name>Question 2</name>
+        <questiontext>&lt;p&gt;Which response best describes a &lt;em&gt;domain&lt;/em&gt; of &lt;span class="nolink"&gt;adult education&lt;/span&gt;?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150617171550+PwlOmp</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150617172214+t1vSYP</version>
+        <hidden>0</hidden>
+        <timecreated>1434561350</timecreated>
+        <timemodified>1434561733</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="2892">
+              <answertext>&lt;p&gt;A set of specific knowledge and skills that every adult educator must have&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2893">
+              <answertext>&lt;p&gt;A broad area of activity that an adult educator must engage in to be effective&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2894">
+              <answertext>&lt;p&gt;An indication showing what a particular skills look like when performed in the classroom&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2895">
+              <answertext>&lt;p&gt;A collection of illustrations of what these &lt;span class="nolink"&gt;adult education&lt;/span&gt; skills look like in the classroom&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="483">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="969">
+        <parent>0</parent>
+        <name>Question 3</name>
+        <questiontext>&lt;p&gt;In addition to its domains and competencies, the &lt;em&gt;&lt;span class="nolink"&gt;Adult Education&lt;/span&gt; &lt;span class="nolink"&gt;Teacher Competencies&lt;/span&gt;&lt;/em&gt; also provide performance indicators and sample illustrations that describe what these competencies look like in the classroom.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150617171623+OXWIvS</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150817163143+rpTJHw</version>
+        <hidden>0</hidden>
+        <timecreated>1434561383</timecreated>
+        <timemodified>1439829102</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="2896">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2897">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="110">
+            <trueanswer>2896</trueanswer>
+            <falseanswer>2897</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="970">
+        <parent>0</parent>
+        <name>Question 4</name>
+        <questiontext>&lt;p&gt;Match the uses of the &lt;em&gt;&lt;span class="nolink"&gt;Adult Education&lt;/span&gt; &lt;span class="nolink"&gt;Teacher Competencies&lt;/span&gt;&lt;/em&gt; (shown below on the left) with the role of the educator (shown below on the right). Select the most appropriate response.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>match</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150617171902+uadOCm</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150817163203+f8eLRc</version>
+        <hidden>0</hidden>
+        <timecreated>1434561542</timecreated>
+        <timemodified>1439829122</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_match_question>
+          <matchoptions id="68">
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <shownumcorrect>1</shownumcorrect>
+          </matchoptions>
+          <matches>
+            <match id="360">
+              <questiontext>&lt;p&gt;Inform professional learning planning within local schools or agencies&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Instructional leaders</answertext>
+            </match>
+            <match id="361">
+              <questiontext>&lt;p&gt;Inform professional learning planning for high-level instructional reform&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>State directors</answertext>
+            </match>
+            <match id="362">
+              <questiontext>&lt;p&gt;Help direct new teachers’ professional learning&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Mentors</answertext>
+            </match>
+            <match id="363">
+              <questiontext>&lt;p&gt;Guide beginning teachers’ own professional learning in an unfamiliar teaching context&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Beginning teachers</answertext>
+            </match>
+          </matches>
+        </plugin_qtype_match_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="971">
+        <parent>0</parent>
+        <name>Question 1</name>
+        <questiontext>&lt;p&gt;Decide whether the following statement about the &lt;em&gt;Teacher &lt;span class="nolink"&gt;Induction&lt;/span&gt; Pathway&lt;/em&gt;’s overall purpose is true or false.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The &lt;/em&gt;Teacher &lt;span class="nolink"&gt;Induction&lt;/span&gt; Pathway&lt;em&gt; is intended to support local adult education programs in building capacity to sustain evidence-based instructional reform efforts by accelerating the effectiveness of experienced teachers.&lt;/em&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150617173211+Q6jqUn</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150817164109+SZlXX4</version>
+        <hidden>0</hidden>
+        <timecreated>1434562331</timecreated>
+        <timemodified>1439829668</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="2898">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2899">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="111">
+            <trueanswer>2898</trueanswer>
+            <falseanswer>2899</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="972">
+        <parent>0</parent>
+        <name>Question 2</name>
+        <questiontext>&lt;p&gt;The &lt;em&gt;Teacher &lt;span class="nolink"&gt;Induction&lt;/span&gt; Pathway&lt;/em&gt; was designed to meet three main objectives. Which of the following four responses is &lt;em&gt;not&lt;/em&gt; an intended objective?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150617174021+gM041p</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150911171317+DW5jBT</version>
+        <hidden>0</hidden>
+        <timecreated>1434562821</timecreated>
+        <timemodified>1441991597</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="2900">
+              <answertext>&lt;p&gt;Support master teachers as they serve as mentors to beginning teachers&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2901">
+              <answertext>&lt;p&gt;Accelerate beginning teachers’ ability to use evidence-based instructional practices&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2902">
+              <answertext>&lt;p&gt;Support comprehensive instructional reform efforts at the national level&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2903">
+              <answertext>&lt;p&gt;Support programs in developing systems to support continual instructional improvement &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="484">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="973">
+        <parent>0</parent>
+        <name>Question 3</name>
+        <questiontext>&lt;p&gt;Sequence the following six distinct but interrelated steps of the &lt;em&gt;Teacher &lt;span class="nolink"&gt;Induction&lt;/span&gt; Pathway&lt;/em&gt; in the correct order, indicating a “1” for the first step, “2” for the second, and so on.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>match</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150617174244+bChBnR</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150911171930+Ldo3yY</version>
+        <hidden>0</hidden>
+        <timecreated>1434562964</timecreated>
+        <timemodified>1441991970</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_match_question>
+          <matchoptions id="69">
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <shownumcorrect>1</shownumcorrect>
+          </matchoptions>
+          <matches>
+            <match id="364">
+              <questiontext>&lt;p&gt;1&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Readiness</answertext>
+            </match>
+            <match id="365">
+              <questiontext>&lt;p&gt;2&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Planning</answertext>
+            </match>
+            <match id="366">
+              <questiontext>&lt;p&gt;3&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Learning</answertext>
+            </match>
+            <match id="367">
+              <questiontext>&lt;p&gt;4&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Preparing</answertext>
+            </match>
+            <match id="368">
+              <questiontext>&lt;p&gt;5&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Applying</answertext>
+            </match>
+            <match id="369">
+              <questiontext>&lt;p&gt;6&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Reflecting</answertext>
+            </match>
+          </matches>
+        </plugin_qtype_match_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="974">
+        <parent>0</parent>
+        <name>Question 4</name>
+        <questiontext>&lt;p&gt;Match the sample key activities of effective instruction (shown below on the left) with the role of the educator you believe is best suited to perform this action (shown below on the right). &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>match</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150617174727+5qjRwr</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150617174731+EblYtS</version>
+        <hidden>0</hidden>
+        <timecreated>1434563247</timecreated>
+        <timemodified>1434563247</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_match_question>
+          <matchoptions id="70">
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <shownumcorrect>1</shownumcorrect>
+          </matchoptions>
+          <matches>
+            <match id="370">
+              <questiontext>&lt;p&gt;Identifying and removing potential program barriers (e.g., by providing substitutes or planning time) &lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Instructional leaders only</answertext>
+            </match>
+            <match id="371">
+              <questiontext>&lt;p&gt;Receiving feedback after being observed&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Both beginning teachers and mentors</answertext>
+            </match>
+            <match id="372">
+              <questiontext>&lt;p&gt;Conducting classroom observations &lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Both beginning teachers and mentors</answertext>
+            </match>
+            <match id="373">
+              <questiontext>&lt;p&gt;Providing demonstration lessons of evidence-based instruction in action&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Mentors only</answertext>
+            </match>
+            <match id="374">
+              <questiontext>&lt;p&gt;Viewing classroom demonstrations of evidence-based instruction in action&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Beginning teachers only</answertext>
+            </match>
+          </matches>
+        </plugin_qtype_match_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="975">
+        <parent>0</parent>
+        <name>Question 1</name>
+        <questiontext>&lt;p&gt;&lt;em&gt;The&lt;/em&gt; &lt;em&gt; &lt;span class="nolink"&gt;Adult Education Teacher Induction Toolkit&lt;/span&gt;&lt;/em&gt; has three objectives. Which one of the following four responses is &lt;em&gt;not&lt;/em&gt; an objective of the &lt;em&gt;&lt;span class="nolink"&gt;Toolkit&lt;/span&gt;&lt;/em&gt;?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The&lt;/em&gt; &lt;em&gt;&lt;span class="nolink"&gt;Adult Education Teacher Induction Toolkit&lt;/span&gt;&lt;/em&gt; was designed to provide tools that help: &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150617181936+uUiFHh</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150817164450+UE1mlD</version>
+        <hidden>0</hidden>
+        <timecreated>1434565176</timecreated>
+        <timemodified>1439829889</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="2904">
+              <answertext>&lt;p&gt;Beginning teachers deliver &lt;span class="nolink"&gt;evidence-based&lt;/span&gt; instruction in their classrooms. &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2905">
+              <answertext>&lt;p&gt;Experienced teachers &lt;span class="nolink"&gt;mentor&lt;/span&gt; beginning teachers. &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2906">
+              <answertext>&lt;p&gt;Instructional leaders guide and support the &lt;span class="nolink"&gt;induction&lt;/span&gt; pathway as a whole.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2907">
+              <answertext>&lt;p&gt;State directors guide high-level instructional reform efforts. &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="485">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="976">
+        <parent>0</parent>
+        <name>Question 2</name>
+        <questiontext>&lt;p&gt;&lt;em&gt;The &lt;span class="nolink"&gt;Adult Education Teacher Induction Toolkit&lt;/span&gt;&lt;/em&gt; provides four introductory briefs that are intended for all adult educators and one that is intended primarily for instructional leaders. Which of the following four information briefs is geared toward instructional leaders? &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150617182221+1ShAlw</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150817164943+rseBYA</version>
+        <hidden>0</hidden>
+        <timecreated>1434565341</timecreated>
+        <timemodified>1439830181</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="2908">
+              <answertext>&lt;p&gt;&lt;em&gt;Teacher &lt;span class="nolink"&gt;Induction and a Toolkit for Adult Educators&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2909">
+              <answertext>&lt;p&gt;&lt;em&gt;Conditions for Success in &lt;span class="nolink"&gt;Teacher Induction&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2910">
+              <answertext>&lt;p&gt;&lt;em&gt;&lt;span class="nolink"&gt;Teacher Induction and Mentoring Brief&lt;br /&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2911">
+              <answertext>&lt;p&gt;&lt;em&gt;&lt;span class="nolink"&gt;Evidence-Based Instruction &lt;/span&gt;&lt;/em&gt;&lt;span class="nolink"&gt;and&lt;/span&gt;&lt;em&gt;&lt;span class="nolink"&gt; Teacher Induction&lt;br /&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="486">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="977">
+        <parent>0</parent>
+        <name>Question 3</name>
+        <questiontext>&lt;p&gt;Match the tools from &lt;em&gt;&lt;span class="nolink"&gt;The Adult Education Teacher Induction Toolkit&lt;/span&gt;&lt;/em&gt; (shown below on the left) with the role of the educator(s) you believe are best suited to make use of this tool (shown below on the right). &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>match</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150617182608+1AuwQO</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150817165217+3Gx4Ek</version>
+        <hidden>0</hidden>
+        <timecreated>1434565568</timecreated>
+        <timemodified>1439830335</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_match_question>
+          <matchoptions id="71">
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <shownumcorrect>1</shownumcorrect>
+          </matchoptions>
+          <matches>
+            <match id="375">
+              <questiontext>&lt;p&gt;&lt;em&gt;Leadership Guide for Teacher &lt;span class="nolink"&gt;Induction&lt;/span&gt;&lt;/em&gt; (guide)&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Instructional leaders only</answertext>
+            </match>
+            <match id="376">
+              <questiontext>&lt;p&gt;&lt;em&gt;&lt;span class="nolink"&gt;Mentoring Guide for Teacher Induction:  Guidance for Mentors and Beginning Teachers &lt;/span&gt;&lt;/em&gt;(guide)&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Mentors and beginning teachers</answertext>
+            </match>
+            <match id="377">
+              <questiontext>&lt;p&gt;&lt;span class="nolink"&gt;&lt;em&gt;Adult Education Teacher Competencies&lt;/em&gt; and related &lt;em&gt;Self-Assessment&lt;/em&gt; (tool)&lt;/span&gt;&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>All adult educators</answertext>
+            </match>
+            <match id="378">
+              <questiontext>&lt;p&gt;&lt;span class="nolink"&gt;Two online courses supporting evidence-based instruction &lt;/span&gt;(tool)&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Mentors and beginning teachers</answertext>
+            </match>
+            <match id="379">
+              <questiontext>&lt;p&gt;&lt;em&gt;&lt;span class="nolink"&gt;Glossary&lt;/span&gt;&lt;/em&gt; (tool)&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>All adult educators</answertext>
+            </match>
+            <match id="380">
+              <questiontext>&lt;p&gt;&lt;span class="nolink"&gt;&lt;em&gt;Annotated Bibliography&lt;/em&gt; from research on teacher effectiveness&lt;/span&gt; (tool)&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>All adult educators</answertext>
+            </match>
+          </matches>
+        </plugin_qtype_match_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="978">
+        <parent>0</parent>
+        <name>Question 4</name>
+        <questiontext>&lt;p&gt;According to the preview of sample tools from the unit presentation, where in the &lt;em&gt;&lt;span class="nolink"&gt;Toolkit&lt;/span&gt;&lt;/em&gt; would you look first to find help with the &lt;span class="nolink"&gt;professional learning need&lt;/span&gt; (shown below on the left)? Match the question (on the left) to the tool that contains one or more resources addressing that need (full names of tools are listed below, a-d).&lt;/p&gt;
+&lt;p&gt;&lt;span class="nolink"&gt;a. &lt;em&gt;Mentoring Guide for Teacher Induction: Guidance for Mentors and Beginning Teachers&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="nolink"&gt;b. &lt;em&gt;Adult Education Teacher Competencies&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="nolink"&gt;c. &lt;em&gt;Evidence-Based Instruction and Teacher Induction&lt;/em&gt; (information brief) and two online courses, &lt;em&gt;Motivating Adult Learners To Persist&lt;/em&gt; and &lt;em&gt;Principles of Learning for Instructional Design&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="nolink"&gt;d. &lt;em&gt;Leadership Guide for Teaching Induction&lt;/em&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>match</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150617183306+sMcMnr</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150817165508+TOGCZh</version>
+        <hidden>0</hidden>
+        <timecreated>1434565986</timecreated>
+        <timemodified>1439830505</timemodified>
+        <createdby>144</createdby>
+        <modifiedby>144</modifiedby>
+        <plugin_qtype_match_question>
+          <matchoptions id="72">
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <shownumcorrect>1</shownumcorrect>
+          </matchoptions>
+          <matches>
+            <match id="381">
+              <questiontext>&lt;p&gt;How do I observe instruction objectively?&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>a.</answertext>
+            </match>
+            <match id="382">
+              <questiontext>&lt;p&gt;How do I determine whether a teacher is qualified to serve as a &lt;span class="nolink"&gt;mentor?&lt;/span&gt;&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>d.</answertext>
+            </match>
+            <match id="383">
+              <questiontext>&lt;p&gt;How do I prepare beginning teachers for being inducted into using &lt;span class="nolink"&gt;evidence-based instruction&lt;/span&gt;?&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>c.</answertext>
+            </match>
+            <match id="384">
+              <questiontext>&lt;p&gt;How do I provide feedback to the teacher whose class I observe?&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>a.</answertext>
+            </match>
+            <match id="385">
+              <questiontext>&lt;p&gt;How can I find out what an effective teacher should know and be able to do in his/her class?&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>b.</answertext>
+            </match>
+            <match id="386">
+              <questiontext>&lt;p&gt;&lt;span class="nolink"&gt;As a beginning teacher, where can I get help in developing a Professional Learning Plan for myself?&lt;/span&gt;&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>a.</answertext>
+            </match>
+          </matches>
+        </plugin_qtype_match_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+  <question_category id="155">
+    <name>Default for Unit 2 Quiz</name>
+    <contextid>14771</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>4981</contextinstanceid>
+    <info>The default category for questions shared in context 'Unit 2 Quiz'.</info>
+    <infoformat>0</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+150617171138+wBTE42</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="156">
+    <name>Default for Unit 3 Quiz</name>
+    <contextid>14774</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>4984</contextinstanceid>
+    <info>The default category for questions shared in context 'Unit 3 Quiz'.</info>
+    <infoformat>0</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+150617173048+Shbed9</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="157">
+    <name>Default for Unit 4 Quiz</name>
+    <contextid>14777</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>4987</contextinstanceid>
+    <info>The default category for questions shared in context 'Unit 4 Quiz'.</info>
+    <infoformat>0</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+150617181526+FgUXtY</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+</question_categories>

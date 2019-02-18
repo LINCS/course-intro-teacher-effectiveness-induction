@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1115" moduleid="4988" modulename="label" contextid="14778">
+  <label id="1115">
+    <name>An adult education practitioner shares her experie...</name>
+    <intro>&lt;p style="text-align: left;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;An adult education practitioner shares her experience as a new teacher and ways to use the &lt;em&gt;&lt;span class="nolink"&gt;Annotated Bibliography&lt;/span&gt;&lt;/em&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="text-align: left;"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Access the &lt;em&gt;&lt;a href="@@PLUGINFILE@@/Annotatedbib.pdf" title="Annotated Bibliography" target="_blank"&gt;Annotated Bibliography&lt;/a&gt;&lt;/em&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;To learn how you can use this resource as a way to learn more about teacher effectiveness, listen to Maricel Santos&lt;/span&gt;
+&lt;ul&gt;
+&lt;li style="text-align: left;"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;a href="@@PLUGINFILE@@/Unit5_audio.mp3" title="Unit 5 Audio Tour Resources" target="_blank"&gt;Additional Resources Audio Tour (MP3)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;
+&lt;p&gt;&lt;a target="_blank" title="Audio Tour Script" href="@@PLUGINFILE@@/Audio%20Tour%20Script.pdf"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Audio Tour Script (PDF)&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1439830671</timemodified>
+  </label>
+</activity>

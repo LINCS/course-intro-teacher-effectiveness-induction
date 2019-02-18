@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file id="78154">
+    <contenthash>66eee940c9b231e12756a7842f4f2f228aa36f87</contenthash>
+    <contextid>14755</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>1310</itemid>
+    <filepath>/</filepath>
+    <filename>Teachertraining.jpg</filename>
+    <userid>144</userid>
+    <filesize>1440261</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1434749922</timecreated>
+    <timemodified>1434750018</timemodified>
+    <source>BannerPhoto.jpg</source>
+    <author>Yonca Aral</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="78155">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>14755</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>1310</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>144</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1442848582</timecreated>
+    <timemodified>1442848582</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="78156">
+    <contenthash>53a6a1a56e7128c86088732c4c9478554b3f69f6</contenthash>
+    <contextid>14755</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>1310</itemid>
+    <filepath>/</filepath>
+    <filename>Teacher Training Classroom.jpg</filename>
+    <userid>144</userid>
+    <filesize>84210</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1435265130</timecreated>
+    <timemodified>1435265296</timemodified>
+    <source>BannerPhoto.jpg</source>
+    <author>Yonca Aral</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="78157">
+    <contenthash>582027d52114d4864ea14508edc2a06c531400f9</contenthash>
+    <contextid>14762</contextid>
+    <component>mod_resource</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Course_Introduction_508.pptx</filename>
+    <userid>144</userid>
+    <filesize>1724669</filesize>
+    <mimetype>application/vnd.openxmlformats-officedocument.presentationml.presentation</mimetype>
+    <status>0</status>
+    <timecreated>1439566456</timecreated>
+    <timemodified>1439566458</timemodified>
+    <source>Course_Introduction_508.pptx</source>
+    <author>$@NULL@$</author>
+    <license>allrightsreserved</license>
+    <sortorder>1</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="78158">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>14762</contextid>
+    <component>mod_resource</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>144</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1442848585</timecreated>
+    <timemodified>1442848585</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="78159">
+    <contenthash>dfed4c8857c3ae1b6bbcccda6f25cb8c0ac675e2</contenthash>
+    <contextid>14763</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Teacher_Induction_Path_508.pdf</filename>
+    <userid>144</userid>
+    <filesize>41894</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1439576668</timecreated>
+    <timemodified>1439576811</timemodified>
+    <source>Server files: Active Course Development/Teacher Effectiveness/Introduction to Teacher Effectiveness and Induction/Teacher Induction Path 508 (File)/Files and subfolders/Teacher_Induction_Path_508.pdf</source>
+    <author>$@NULL@$</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="78160">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>14763</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>144</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1442848586</timecreated>
+    <timemodified>1442848586</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="78161">
+    <contenthash>bc0f71e336d8280653aafe59c868599c9d41c7ae</contenthash>
+    <contextid>14763</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>AdultEdu_Competencies_508.pdf</filename>
+    <userid>144</userid>
+    <filesize>787199</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1439579141</timecreated>
+    <timemodified>1439579451</timemodified>
+    <source>Server files: Active Course Development/Teacher Effectiveness/Introduction to Teacher Effectiveness and Induction/AdultEdu Competencies 508 (File)/Files and subfolders/AdultEdu_Competencies_508.pdf</source>
+    <author>$@NULL@$</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="78162">
+    <contenthash>d7809caca3a3483e0b616fee628663a1d616ec32</contenthash>
+    <contextid>14763</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Glossary_508.pdf</filename>
+    <userid>144</userid>
+    <filesize>369207</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1439579303</timecreated>
+    <timemodified>1439579451</timemodified>
+    <source>Server files: Active Course Development/Teacher Effectiveness/Introduction to Teacher Effectiveness and Induction/Glossary 508 (File)/Files and subfolders/Glossary_508.pdf</source>
+    <author>$@NULL@$</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="78163">
+    <contenthash>7fdf6e72b684af9175fc28506a8324552d6b10d4</contenthash>
+    <contextid>14763</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Annotatedbib.pdf</filename>
+    <userid>144</userid>
+    <filesize>1096015</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1440442361</timecreated>
+    <timemodified>1440442458</timemodified>
+    <source>Annotatedbib.pdf</source>
+    <author>Chris Peppers</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="78164">
+    <contenthash>6fe155af0e5621a460dabcd8ef0cd608d92df389</contenthash>
+    <contextid>14763</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>IntroTECourse_References_508.pdf</filename>
+    <userid>144</userid>
+    <filesize>135333</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1441993123</timecreated>
+    <timemodified>1441993157</timemodified>
+    <source>Server files: Active Course Development/Teacher Effectiveness/Introduction to Teacher Effectiveness and Induction/IntroTECourse References 508 (File)/Files and subfolders/IntroTECourse_References_508.pdf</source>
+    <author>Marian Thacher</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="78165">
+    <contenthash>4e37db238f8442c347af86df462c8df6226ceda3</contenthash>
+    <contextid>14764</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Bread Crumb Example.jpg</filename>
+    <userid>144</userid>
+    <filesize>7410</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1439404489</timecreated>
+    <timemodified>1439404521</timemodified>
+    <source>Bread Crumb Trail.jpg</source>
+    <author>$@NULL@$</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="78166">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>14764</contextid>
+    <component>mod_page</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>144</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1442848588</timecreated>
+    <timemodified>1442848588</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="78167">
+    <contenthash>a8987cb79486aa143c8ca56a3b939bf934eb945c</contenthash>
+    <contextid>14755</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>1316</itemid>
+    <filepath>/</filepath>
+    <filename>Unit 5 Audio Tour Resources.m4a</filename>
+    <userid>144</userid>
+    <filesize>7858362</filesize>
+    <mimetype>audio/mp4</mimetype>
+    <status>0</status>
+    <timecreated>1434898569</timecreated>
+    <timemodified>1434898756</timemodified>
+    <source>Unit 5 Audio.m4a</source>
+    <author>Yonca Aral</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="78168">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>14755</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>1316</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>144</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1442848611</timecreated>
+    <timemodified>1442848611</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="78169">
+    <contenthash>f98dabba0dbfbf8baf9c74c944287d979bb99290</contenthash>
+    <contextid>14755</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>1316</itemid>
+    <filepath>/</filepath>
+    <filename>Unit 5 Audio Tour Resources Script.pdf</filename>
+    <userid>144</userid>
+    <filesize>149280</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1434898658</timecreated>
+    <timemodified>1434898757</timemodified>
+    <source>TE1hour_Unit5script_final09262013.pdf</source>
+    <author>Yonca Aral</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="78170">
+    <contenthash>3b7a505081187ae7f57b66fef1a11370c86123c4</contenthash>
+    <contextid>14755</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>1316</itemid>
+    <filepath>/</filepath>
+    <filename>Annotated Bibliography.pdf</filename>
+    <userid>144</userid>
+    <filesize>1392635</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1434899130</timecreated>
+    <timemodified>1434899143</timemodified>
+    <source>Annotated_Bibliography_508.pdf</source>
+    <author>Yonca Aral</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="78171">
+    <contenthash>6fca70fe5c7a18015f2ed372d694d63a7a38f8e0</contenthash>
+    <contextid>14778</contextid>
+    <component>mod_label</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Unit5_audio.mp3</filename>
+    <userid>144</userid>
+    <filesize>7914203</filesize>
+    <mimetype>audio/mp3</mimetype>
+    <status>0</status>
+    <timecreated>1439577181</timecreated>
+    <timemodified>1439577200</timemodified>
+    <source>Server files: Active Course Development/Teacher Effectiveness/Introduction to Teacher Effectiveness and Induction/Unit5 audio (File)/Files and subfolders/Unit5_audio.mp3</source>
+    <author>$@NULL@$</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="78172">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>14778</contextid>
+    <component>mod_label</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>144</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1442848613</timecreated>
+    <timemodified>1442848613</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="78173">
+    <contenthash>ff293d95d4a872cede7724a9ae11ebf5e696368e</contenthash>
+    <contextid>14778</contextid>
+    <component>mod_label</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Audio Tour Script.pdf</filename>
+    <userid>144</userid>
+    <filesize>81691</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1439582830</timecreated>
+    <timemodified>1439582846</timemodified>
+    <source>Server files: Active Course Development/Teacher Effectiveness/Introduction to Teacher Effectiveness and Induction/Audio Tour Script (File)/Files and subfolders/Audio Tour Script.pdf</source>
+    <author>$@NULL@$</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="78174">
+    <contenthash>7fdf6e72b684af9175fc28506a8324552d6b10d4</contenthash>
+    <contextid>14778</contextid>
+    <component>mod_label</component>
+    <filearea>intro</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Annotatedbib.pdf</filename>
+    <userid>144</userid>
+    <filesize>1096015</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1439830650</timecreated>
+    <timemodified>1439830671</timemodified>
+    <source>Server files: Active Course Development/Teacher Effectiveness/Introduction to Teacher Effectiveness and Induction/Course Resources (Page)/Page content/Annotatedbib.pdf</source>
+    <author>$@NULL@$</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+</files>

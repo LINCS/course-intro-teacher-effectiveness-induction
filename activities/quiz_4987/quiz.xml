@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="51" moduleid="4987" modulename="quiz" contextid="14777">
+  <quiz id="51">
+    <name>Unit 4 Quiz</name>
+    <intro>&lt;p&gt;This unit quiz has four questions. You must achieve a score of at least 75% on all the quizzes to be eligible for a certificate of course completion. You may take the quiz as many times as you wish. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;&lt;a href="$@COURSEVIEWBYID*131@$" title="Course Home Page"&gt;Return to the home page&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timelimit>0</timelimit>
+    <overduehandling>autoabandon</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>deferredfeedback</preferredbehaviour>
+    <attempts_number>0</attempts_number>
+    <attemptonlast>0</attemptonlast>
+    <grademethod>1</grademethod>
+    <decimalpoints>2</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>69904</reviewattempt>
+    <reviewcorrectness>4368</reviewcorrectness>
+    <reviewmarks>4368</reviewmarks>
+    <reviewspecificfeedback>0</reviewspecificfeedback>
+    <reviewgeneralfeedback>0</reviewgeneralfeedback>
+    <reviewrightanswer>0</reviewrightanswer>
+    <reviewoverallfeedback>4368</reviewoverallfeedback>
+    <questionsperpage>0</questionsperpage>
+    <navmethod>free</navmethod>
+    <shufflequestions>0</shufflequestions>
+    <shuffleanswers>0</shuffleanswers>
+    <questions>975,976,977,978,0</questions>
+    <sumgrades>10.00000</sumgrades>
+    <grade>10.00000</grade>
+    <timecreated>0</timecreated>
+    <timemodified>1450026879</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>0</showuserpicture>
+    <showblocks>0</showblocks>
+    <question_instances>
+      <question_instance id="373">
+        <question>975</question>
+        <grade>2.5000000</grade>
+      </question_instance>
+      <question_instance id="374">
+        <question>976</question>
+        <grade>2.5000000</grade>
+      </question_instance>
+      <question_instance id="375">
+        <question>977</question>
+        <grade>2.5000000</grade>
+      </question_instance>
+      <question_instance id="376">
+        <question>978</question>
+        <grade>2.5000000</grade>
+      </question_instance>
+    </question_instances>
+    <feedbacks>
+      <feedback id="81">
+        <feedbacktext>&lt;p&gt;Good job! You passed this quiz.&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>7.50000</mingrade>
+        <maxgrade>11.00000</maxgrade>
+      </feedback>
+      <feedback id="82">
+        <feedbacktext>&lt;p&gt;Remember, you must achieve a score of at least 75 on the quizzes to be eligible for a certificate of course completion. Please try the quiz again. You may take the quiz as many times as you wish.&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.10000</mingrade>
+        <maxgrade>7.50000</maxgrade>
+      </feedback>
+      <feedback id="83">
+        <feedbacktext></feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>0.10000</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+    </grades>
+    <attempts>
+    </attempts>
+  </quiz>
+</activity>

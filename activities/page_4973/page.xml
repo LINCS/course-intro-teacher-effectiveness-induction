@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1213" moduleid="4973" modulename="page" contextid="14763">
+  <page id="1213">
+    <name>Course Resources</name>
+    <intro>&lt;p&gt;This page contains the list of resources for this course.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;&lt;a title="Course Home Page" href="$@COURSEVIEWBYID*131@$"&gt;Return to the home page&lt;/a&gt;.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;b&gt;Course Resources&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;b&gt;&lt;i&gt;Adult Education Teacher Competencies &lt;/i&gt;and the Related &lt;em&gt;Self-Assessment&lt;/em&gt;&lt;br /&gt;&lt;/b&gt;&lt;em&gt;&lt;a title="Adult Education Teacher Competencies" href="@@PLUGINFILE@@/AdultEdu_Competencies_508.pdf" target="_blank"&gt;Adult Education Teacher Competencies&lt;/a&gt;&lt;/em&gt; (PDF)&lt;/span&gt;&lt;br /&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;em&gt;&lt;a title="Teacher Competency Self-assessment" href="http://lincs.ed.gov/programs/teachereffectiveness/self-assessment"&gt;Adult Education Teacher Competencies Self-Assessment&lt;/a&gt;&lt;/em&gt; (Link)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li style="text-align: left;"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;strong&gt;&lt;em&gt;Glossary&lt;/em&gt;&lt;br /&gt;&lt;/strong&gt;&lt;em&gt;&lt;a title="Teacher Induction Pathway" href="@@PLUGINFILE@@/Glossary_508.pdf" target="_blank"&gt;Glossary&lt;/a&gt;&lt;/em&gt; (PDF)&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;strong&gt;&lt;em&gt;Teacher Induction Pathway&lt;/em&gt; (graphic organizer)&lt;br /&gt;&lt;/strong&gt;&lt;em&gt;&lt;a title="Teacher Induction Pathway" href="@@PLUGINFILE@@/Teacher_Induction_Path_508.pdf" target="_blank"&gt;Teacher Induction Pathway&lt;/a&gt;&lt;/em&gt; (PDF)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;b&gt;&lt;em&gt;Adult Education Teacher Effectiveness Toolkit&lt;/em&gt;&lt;br /&gt;&lt;/b&gt;&lt;a title="Adult Education Teacher EffectivenessToolkit" href="http://lincs.ed.gov/programs/teachereffectiveness/toolkit"&gt;Access the tools through the LINCS Resource Collection&lt;/a&gt; (Link)&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;b&gt;&lt;span class="nolink"&gt;Suggestions for&lt;/span&gt;&lt;span class="nolink"&gt; Further Study&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;a title="Annotated Bibliogrpaphy" href="@@PLUGINFILE@@/Annotatedbib.pdf" target="_blank"&gt;&lt;em&gt;Annotated Bibliography&lt;/em&gt;&lt;/a&gt; (PDF)&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;strong&gt;Course References&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;a title="Intro to TE Course References 508" href="@@PLUGINFILE@@/IntroTECourse_References_508.pdf"&gt;Introduction to Teacher Effectiveness and Induction Course References &lt;/a&gt;(PDF)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>30</revision>
+    <timemodified>1441993324</timemodified>
+  </page>
+</activity>

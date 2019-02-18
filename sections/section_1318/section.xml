@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="1318">
+  <number>8</number>
+  <name>Certificate of Completion</name>
+  <summary></summary>
+  <summaryformat>1</summaryformat>
+  <sequence>4990</sequence>
+  <visible>1</visible>
+  <availablefrom>0</availablefrom>
+  <availableuntil>0</availableuntil>
+  <showavailability>0</showavailability>
+  <groupingid>0</groupingid>
+  <availability id="30">
+    <sourcecmid>4977</sourcecmid>
+    <requiredcompletion>2</requiredcompletion>
+    <gradeitemid>$@NULL@$</gradeitemid>
+    <grademin>$@NULL@$</grademin>
+    <grademax>$@NULL@$</grademax>
+  </availability>
+  <availability id="31">
+    <sourcecmid>4981</sourcecmid>
+    <requiredcompletion>2</requiredcompletion>
+    <gradeitemid>$@NULL@$</gradeitemid>
+    <grademin>$@NULL@$</grademin>
+    <grademax>$@NULL@$</grademax>
+  </availability>
+  <availability id="32">
+    <sourcecmid>4984</sourcecmid>
+    <requiredcompletion>2</requiredcompletion>
+    <gradeitemid>$@NULL@$</gradeitemid>
+    <grademin>$@NULL@$</grademin>
+    <grademax>$@NULL@$</grademax>
+  </availability>
+  <availability id="33">
+    <sourcecmid>4987</sourcecmid>
+    <requiredcompletion>2</requiredcompletion>
+    <gradeitemid>$@NULL@$</gradeitemid>
+    <grademin>$@NULL@$</grademin>
+    <grademax>$@NULL@$</grademax>
+  </availability>
+  <availability id="34">
+    <sourcecmid>4972</sourcecmid>
+    <requiredcompletion>1</requiredcompletion>
+    <gradeitemid>$@NULL@$</gradeitemid>
+    <grademin>$@NULL@$</grademin>
+    <grademax>$@NULL@$</grademax>
+  </availability>
+</section>

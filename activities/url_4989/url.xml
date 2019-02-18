@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="126" moduleid="4989" modulename="url" contextid="14779">
+  <url id="126">
+    <name>Course Evaluation Survey</name>
+    <intro>&lt;p&gt;Click the link below to access the Course Evaluation Survey.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;&lt;a href="$@COURSEVIEWBYID*131@$" title="Course Home Page"&gt;Return to the home page&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <externalurl>http://s-80c01d-i.sgizmo.com/s3/i-100012020-963926</externalurl>
+    <display>6</display>
+    <displayoptions>a:2:{s:10:"popupwidth";i:620;s:11:"popupheight";i:450;}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1439583499</timemodified>
+  </url>
+</activity>
